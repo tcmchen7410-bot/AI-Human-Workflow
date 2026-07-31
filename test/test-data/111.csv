@@ -1,0 +1,13 @@
+﻿id,model,outcome,cot,intervention_event,intervention_n,control_event,control_n,time,human_time,input_tokens,output_tokens,total_tokens
+#1-15,gpt,,,,,,,6.27,0,2783,247,3030
+#1-15,deepseek,,,,,,,5.21,0,2599,268,2867
+#1-15,final_consensus,,,,,,,11.48,0,5382,515,5897
+#1-16,gpt,pain improvement rate,,23,30,15,30,3.69,0,2818,134,2952
+#1-16,deepseek,pain improvement rate,,23,30,15,30,4.51,0,2571,283,2854
+#1-16,final_consensus,pain improvement rate,,23,30,15,30,8.2,0,5389,417,5806
+#1-17,gpt,pain improvement rate,,14,22,6,21,3.45,0,2602,169,2771
+#1-17,deepseek,pain improvement rate,,14,22,6,21,13.42,0,2345,918,3263
+#1-17,final_consensus,pain improvement rate,,14,22,6,21,16.87,0,4947,1087,6034
+#1-18,gpt,,,,,,,7.94,0,3361,313,3674
+#1-18,deepseek,,,,,,,11.53,0,3131,758,3889
+#1-18,final_consensus,,,,,,,19.47,0,6492,1071,7563

@@ -1,0 +1,58 @@
+﻿id,model,outcome,cot,intervention_event,intervention_n,control_event,control_n,time,human_time,input_tokens,output_tokens,total_tokens
+#13-10,gpt,Disease Control Rate (CR+PR+SD/NC),,32,39,26,41,4.15,0,4401,114,4515
+#13-10,deepseek,Disease Control Rate,,32,39,26,41,5.31,0,3844,373,4217
+#13-10,final_consensus,Disease Control Rate (CR+PR+SD/NC),,32,39,26,41,9.46,0,8245,487,8732
+#13-11,gpt,Disease Control Rate (CR+PR+SD),,18,20,13,20,3.51,0,2152,99,2251
+#13-11,deepseek,Disease Control Rate,,18,20,13,20,5.23,0,1888,383,2271
+#13-11,final_consensus,Disease Control Rate (CR+PR+SD),,18,20,13,20,8.74,0,4040,482,4522
+#13-12,gpt,Disease Control Rate (CR+PR+SD),,36,40,31,40,3.77,0,3783,102,3885
+#13-12,deepseek,Disease Control Rate (CR+PR+SD),,36,40,31,40,3.77,0,3495,211,3706
+#13-12,final_consensus,Disease Control Rate (CR+PR+SD),,36,40,31,40,7.54,0,7278,313,7591
+#13-13,gpt,Disease Control Rate (CR+PR+NC),,29,30,28,30,3.04,0,3000,122,3122
+#13-13,deepseek,Disease Control Rate,,29,30,28,30,4.49,0,2695,232,2927
+#13-13,final_consensus,Disease Control Rate (CR+PR+NC),,29,30,28,30,7.53,0,5695,354,6049
+#13-14,gpt,Disease Control Rate (CR+PR+NC),,25,30,21,30,3.06,0,3321,121,3442
+#13-14,deepseek,Disease Control Rate (DCR),,25,30,21,30,5.22,0,3060,386,3446
+#13-14,final_consensus,Disease Control Rate (CR+PR+NC),,25,30,21,30,8.28,0,6381,507,6888
+#13-15,gpt,Disease Control Rate (DCR),,43,45,41,45,3.38,0,3844,103,3947
+#13-15,deepseek,disease control rate,,43,45,41,45,5.84,0,3543,365,3908
+#13-15,final_consensus,Disease Control Rate (DCR),,43,45,41,45,9.219999999999999,0,7387,468,7855
+#13-16,gpt,Disease Control Rate (CR+PR+SD/NC),,19,22,20,20,12.29,0,1257,560,1817
+#13-16,deepseek,Disease Control Rate,,19,22,20,20,4.91,0,1110,281,1391
+#13-16,final_consensus,Disease Control Rate (CR+PR+SD/NC),,19,22,20,20,17.2,0,2367,841,3208
+#13-17,gpt,Disease Control Rate (CR+PR+SD),,93,100,87,100,3.05,0,2995,122,3117
+#13-17,deepseek,Disease Control Rate,,93,100,87,100,4.63,0,2708,310,3018
+#13-17,final_consensus,Disease Control Rate (CR+PR+SD),,93,100,87,100,7.68,0,5703,432,6135
+#13-18,gpt,Disease Control Rate (DCR),,23,25,20,25,11.68,0,2798,555,3353
+#13-18,deepseek,Disease Control Rate,,23,25,20,25,22.27,0,2510,2011,4521
+#13-18,final_consensus,Disease Control Rate (DCR),,23,25,20,25,33.95,0,5308,2566,7874
+#13-19,gpt,Disease Control Rate (DCR),,27,30,22,30,4.16,0,2949,119,3068
+#13-19,deepseek,Disease Control Rate,,27,30,22,30,4.53,0,2651,327,2978
+#13-19,final_consensus,Disease Control Rate (DCR),,27,30,22,30,8.690000000000001,0,5600,446,6046
+#13-20,gpt,Disease Control Rate,,28,34,23,34,3.41,0,5123,123,5246
+#13-20,deepseek,Disease Control Rate,,28,34,23,34,6.79,0,4344,484,4828
+#13-20,final_consensus,Disease Control Rate,,28,34,23,34,10.2,0,9467,607,10074
+#13-21,gpt,Disease Control Rate (DCR),,43,48,35,48,3.38,0,3004,90,3094
+#13-21,deepseek,Disease Control Rate,,43,48,35,48,3.68,0,2645,229,2874
+#13-21,final_consensus,Disease Control Rate (DCR),,43,48,35,48,7.0600000000000005,0,5649,319,5968
+#13-22,gpt,Disease Control Rate (CR+PR+SD),,53,64,41,63,9.79,0,5969,512,6481
+#13-22,deepseek,Disease Control Rate,,53,64,41,63,6.54,0,5640,391,6031
+#13-22,final_consensus,Disease Control Rate (CR+PR+SD),,53,64,41,63,16.33,0,11609,903,12512
+#13-23,gpt,Disease Control Rate (CR+PR+SD),,53,60,51,60,4.13,0,2590,107,2697
+#13-23,deepseek,Disease Control Rate,,53,60,51,60,4.08,0,2358,313,2671
+#13-23,final_consensus,Disease Control Rate (CR+PR+SD),,53,60,51,60,8.21,0,4948,420,5368
+#13-24,gpt,Disease Control Rate (DCR),,46,53,32,47,3.1,0,4921,94,5015
+#13-24,deepseek,Disease Control Rate,,46,53,32,47,4.31,0,4380,236,4616
+#13-24,final_consensus,Disease Control Rate (DCR),,46,53,32,47,7.41,0,9301,330,9631
+#13-25,gpt,Disease Control Rate (DCR),,,,,,4.98,0,2390,217,2607
+#13-25,deepseek,,,,,,,4.25,0,2100,305,2405
+#13-25,final_consensus,Disease Control Rate (DCR),,,,,,9.23,0,4490,522,5012
+#13-7,gpt,Disease Control Rate (CR+PR+SD/NC),,30,34,29,34,2.44,0,3234,93,3327
+#13-7,deepseek,Disease Control Rate,,30,34,29,34,4.62,0,2955,291,3246
+#13-7,final_consensus,Disease Control Rate (CR+PR+SD/NC),,30,34,29,34,7.0600000000000005,0,6189,384,6573
+#13-8,gpt,Disease Control Rate (CR+PR+SD/NC),,25,30,21,32,2.75,0,2663,103,2766
+#13-8,deepseek,Disease Control Rate,,25,30,21,32,4.3,0,2357,297,2654
+#13-8,final_consensus,Disease Control Rate (CR+PR+SD/NC),,25,30,21,32,7.05,0,5020,400,5420
+#13-9,gpt,Disease Control Rate (CR+PR+SD),,21,25,15,20,3.12,0,2222,128,2350
+#13-9,deepseek,Disease Control Rate,,21,25,15,20,4.25,0,2122,277,2399
+#13-9,final_consensus,Disease Control Rate (CR+PR+SD),,21,25,15,20,7.37,0,4344,405,4749

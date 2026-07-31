@@ -1,0 +1,34 @@
+﻿id,model,outcome,cot,intervention_event,intervention_n,control_event,control_n,time,human_time,input_tokens,output_tokens,total_tokens
+#4-10,gpt,,,,,,,5.52,0.0,1564,154,1718
+#4-10,deepseek,,,,,,,4.67,0.0,1418,270,1688
+#4-10,final_consensus,,,,,,,10.19,0.0,2982,424,3406
+#4-11,gpt,quality of life,,,,,,4.6,0.0,1642,111,1753
+#4-11,deepseek,,,,,,,5.56,0.0,1440,438,1878
+#4-11,final_consensus,quality of life,,,,,,10.16,0.0,3082,549,3631
+#4-12,gpt,Improved or stable quality of life (KPS score increased ≥10 points or remained stable within ±10 points),,42,49,35,49,6.88,0.0,3778,238,4016
+#4-12,deepseek,quality of life,,42,49,35,49,5.78,0.0,3452,542,3994
+#4-12,final_consensus,Improved or stable quality of life (KPS score increased ≥10 points or remained stable within ±10 points),,42,49,35,49,12.66,0.0,7230,780,8010
+#4-13,gpt,Improved or stable quality of life (Karnofsky score improved by ≥10 points or stable within ±10 points),,23,30,16,30,3.35,0.0,2472,112,2584
+#4-13,deepseek,quality of life improved or stable,,23,30,16,30,3.17,0.0,2228,228,2456
+#4-13,final_consensus,Improved or stable quality of life (Karnofsky score improved by ≥10 points or stable within ±10 points),,23,30,16,30,6.52,0.0,4700,340,5040
+#4-14,gpt,Improved or stable quality of life (post-treatment KPS increase ≥10 points or change within ±10 points vs baseline),,24,35,15,35,2.95,0.0,2945,123,3068
+#4-14,deepseek,quality of life,,24,35,15,35,4.5,0.0,2693,375,3068
+#4-14,final_consensus,Improved or stable quality of life (post-treatment KPS increase ≥10 points or change within ±10 points vs baseline),,24,35,15,35,7.45,0.0,5638,498,6136
+#4-4,gpt,,,,,,,3.7,0.0,1117,106,1223
+#4-4,deepseek,,,,,,,3.87,0.0,1005,277,1282
+#4-4,final_consensus,,,,,,,7.57,0.0,2122,383,2505
+#4-5,gpt,,,,,,,5.09,0.0,4734,233,4967
+#4-5,deepseek,quality of life,,,50,,50,7.51,0.0,4428,630,5058
+#4-5,final_human_override,,,,,,,12.6,23.49,9162,863,10025
+#4-6,gpt,Improved or stable quality of life (KPS score improved or stable after treatment),,12,12,7,12,4.85,0.0,3306,154,3460
+#4-6,deepseek,,,,,,,14.56,0.0,3044,1404,4448
+#4-6,final_human_override,,,,,,,19.41,67.12,6350,1558,7908
+#4-7,gpt,,,,,,,4.63,0.0,4397,127,4524
+#4-7,deepseek,,,,,,,5.66,0.0,3844,345,4189
+#4-7,final_consensus,,,,,,,10.29,0.0,8241,472,8713
+#4-8,gpt,Improved or stable quality of life (KPS increase ≥10 points or change within ±10 points),,29,35,14,30,5.01,0.0,3533,196,3729
+#4-8,deepseek,quality of life,,29,35,14,30,6.15,0.0,3265,488,3753
+#4-8,final_consensus,Improved or stable quality of life (KPS increase ≥10 points or change within ±10 points),,29,35,14,30,11.16,0.0,6798,684,7482
+#4-9,gpt,Improved or stable quality of life (KPS score increase ≥10 points or change within ±10 points vs baseline),,23,35,15,35,3.49,0.0,2625,119,2744
+#4-9,deepseek,quality of life,,23,35,15,35,2.98,0.0,2343,174,2517
+#4-9,final_consensus,Improved or stable quality of life (KPS score increase ≥10 points or change within ±10 points vs baseline),,23,35,15,35,6.470000000000001,0.0,4968,293,5261

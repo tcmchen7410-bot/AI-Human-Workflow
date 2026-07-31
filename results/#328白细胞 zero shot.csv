@@ -1,0 +1,79 @@
+﻿id,model,outcome,cot,intervention_event,intervention_n,control_event,control_n,time,human_time,input_tokens,output_tokens,total_tokens
+#328-1,gpt,leukopenia,,,,,,7.87,0.0,3648,213,3861
+#328-1,deepseek,leukopenia,,,,,,8.92,0.0,3325,588,3913
+#328-1,final_consensus,leukopenia,,,,,,16.79,0.0,6973,801,7774
+#328-11,gpt,grade 3–4 leukopenia,,6,36,20,36,5.87,0.0,2102,113,2215
+#328-11,deepseek,leukopenia,,6,36,20,36,4.53,0.0,1948,207,2155
+#328-11,final_consensus,grade 3–4 leukopenia,,6,36,20,36,10.4,0.0,4050,320,4370
+#328-12,gpt,grade 3–4 leukopenia,,,,,,9.32,0.0,3198,384,3582
+#328-12,deepseek,,,,,,,6.14,0.0,2945,338,3283
+#328-12,final_consensus,grade 3–4 leukopenia,,,,,,15.46,0.0,6143,722,6865
+#328-13,gpt,grade 3–4 leukopenia,,0,31,2,31,5.33,0.0,2329,173,2502
+#328-13,deepseek,leukopenia,,0,31,2,31,8.37,0.0,2128,496,2624
+#328-13,final_consensus,grade 3–4 leukopenia,,0,31,2,31,13.7,0.0,4457,669,5126
+#328-14,gpt,grade 3-4 leukopenia,,4,39,12,41,3.88,0.0,3552,121,3673
+#328-14,deepseek,leukopenia,,4,39,12,41,4.65,0.0,3298,277,3575
+#328-14,final_consensus,grade 3-4 leukopenia,,4,39,12,41,8.530000000000001,0.0,6850,398,7248
+#328-15,gpt,leukopenia (grade 3–4),,,,,,3.28,0.0,2626,96,2722
+#328-15,deepseek,,,,,,,5.32,0.0,2386,254,2640
+#328-15,final_consensus,leukopenia (grade 3–4),,,,,,8.6,0.0,5012,350,5362
+#328-16,gpt,,,,,,,21.71,0.0,3298,541,3839
+#328-16,deepseek,leukopenia,,2,43,9,43,7.17,0.0,2922,382,3304
+#328-16,final_human_override,,,,,,,28.880000000000003,40.54,6220,923,7143
+#328-17,gpt,grade 3-4 leukopenia,,1,35,2,35,4.42,0.0,2846,121,2967
+#328-17,deepseek,leukopenia,,1,35,2,35,4.86,0.0,2580,222,2802
+#328-17,final_consensus,grade 3-4 leukopenia,,1,35,2,35,9.280000000000001,0.0,5426,343,5769
+#328-18,gpt,leukopenia,,,,,,4.18,0.0,2558,142,2700
+#328-18,deepseek,leukopenia,,,,,,6.72,0.0,2275,493,2768
+#328-18,final_consensus,leukopenia,,,,,,10.899999999999999,0.0,4833,635,5468
+#328-19,gpt,,,,,,,11.37,0.0,1824,395,2219
+#328-19,deepseek,,,,,,,5.47,0.0,1589,256,1845
+#328-19,final_consensus,,,,,,,16.84,0.0,3413,651,4064
+#328-2,gpt,grade 3–4 leukopenia (WBC decrease),,4,32,11,30,3.99,0.0,2451,107,2558
+#328-2,deepseek,leukopenia,,4,32,11,30,3.87,0.0,2286,185,2471
+#328-2,final_consensus,grade 3–4 leukopenia (WBC decrease),,4,32,11,30,7.86,0.0,4737,292,5029
+#328-20,gpt,leukopenia,,,,,,3.26,0.0,2240,110,2350
+#328-20,deepseek,,,,,,,3.57,0.0,2049,171,2220
+#328-20,final_consensus,leukopenia,,,,,,6.83,0.0,4289,281,4570
+#328-21,gpt,grade 3–4 leukopenia,,0,43,2,43,4.04,0.0,3871,124,3995
+#328-21,deepseek,leukopenia,,0,43,2,43,7.84,0.0,3451,522,3973
+#328-21,final_consensus,grade 3–4 leukopenia,,0,43,2,43,11.879999999999999,0.0,7322,646,7968
+#328-22,gpt,grade 3–4 leukopenia,,2,39,6,41,4.34,0.0,2991,116,3107
+#328-22,deepseek,leukopenia,,2,39,6,41,4.92,0.0,2719,230,2949
+#328-22,final_consensus,grade 3–4 leukopenia,,2,39,6,41,9.26,0.0,5710,346,6056
+#328-23,gpt,grade 3–4 leukopenia,,5,39,13,39,6.34,0.0,4243,139,4382
+#328-23,deepseek,leukopenia,,5,39,13,39,6.8,0.0,3861,363,4224
+#328-23,final_consensus,grade 3–4 leukopenia,,5,39,13,39,13.14,0.0,8104,502,8606
+#328-24,gpt,grade 3–4 leukopenia,,,,,,7.51,0.0,4411,242,4653
+#328-24,deepseek,,,,,,,9.71,0.0,3939,611,4550
+#328-24,final_consensus,grade 3–4 leukopenia,,,,,,17.22,0.0,8350,853,9203
+#328-25,gpt,leukopenia,,,,,,6.35,0.0,1704,133,1837
+#328-25,deepseek,leukopenia,,,,,,6.14,0.0,1544,268,1812
+#328-25,final_consensus,leukopenia,,,,,,12.489999999999998,0.0,3248,401,3649
+#328-26,gpt,grade 3-4 leukopenia,,,,,,9.45,0.0,2417,334,2751
+#328-26,deepseek,leukopenia,,,,,,10.47,0.0,2149,541,2690
+#328-26,final_consensus,grade 3-4 leukopenia,,,,,,19.92,0.0,4566,875,5441
+#328-27,gpt,grade 3–4 leukopenia,,,50,,50,13.04,0.0,2745,446,3191
+#328-27,deepseek,leukopenia,,,,,,11.68,0.0,2417,760,3177
+#328-27,final_human_override,leukopenia,,,,,,24.72,38.06,5162,1206,6368
+#328-3,gpt,grade 3–4 leukopenia,,2,30,5,30,7.94,0.0,3328,214,3542
+#328-3,deepseek,leukopenia,,2,30,5,30,9.01,0.0,3062,477,3539
+#328-3,final_consensus,grade 3–4 leukopenia,,2,30,5,30,16.95,0.0,6390,691,7081
+#328-4,gpt,leukopenia,,,,,,6.33,0.0,3223,159,3382
+#328-4,deepseek,,,,,,,9.46,0.0,2986,429,3415
+#328-4,final_consensus,leukopenia,,,,,,15.790000000000001,0.0,6209,588,6797
+#328-5,gpt,grade 3–4 leukopenia,,,,,,5.3,0.0,4894,160,5054
+#328-5,deepseek,leukopenia,,,,,,10.21,0.0,4431,511,4942
+#328-5,final_consensus,grade 3–4 leukopenia,,,,,,15.510000000000002,0.0,9325,671,9996
+#328-6,gpt,grade 3–4 leukopenia,,3,34,8,34,4.49,0.0,3165,101,3266
+#328-6,deepseek,leukopenia,,3,34,8,34,5.85,0.0,2882,234,3116
+#328-6,final_consensus,grade 3–4 leukopenia,,3,34,8,34,10.34,0.0,6047,335,6382
+#328-7,gpt,grade 3–4 leukopenia,,8,35,16,35,4.87,0.0,2493,112,2605
+#328-7,deepseek,leukopenia,,8,35,16,35,6.51,0.0,2227,227,2454
+#328-7,final_consensus,grade 3–4 leukopenia,,8,35,16,35,11.379999999999999,0.0,4720,339,5059
+#328-8,gpt,grade 3–4 leukopenia,,10,48,23,48,5.35,0.0,2959,94,3053
+#328-8,deepseek,leukopenia,,10,48,23,48,5.31,0.0,2593,274,2867
+#328-8,final_consensus,grade 3–4 leukopenia,,10,48,23,48,10.66,0.0,5552,368,5920
+#328-9,gpt,grade 3–4 leukopenia,,1,30,6,30,33.49,0.0,1645,114,1759
+#328-9,deepseek,leukopenia,,1,30,6,30,5.94,0.0,1479,200,1679
+#328-9,final_consensus,grade 3–4 leukopenia,,1,30,6,30,39.43,0.0,3124,314,3438

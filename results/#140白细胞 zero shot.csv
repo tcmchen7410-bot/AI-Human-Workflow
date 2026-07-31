@@ -1,0 +1,37 @@
+﻿id,model,outcome,cot,intervention_event,intervention_n,control_event,control_n,time,human_time,input_tokens,output_tokens,total_tokens
+#140-10,gpt,No leukopenia (grade 0 decrease of white cells),,13,30,5,30,4.01,0,3320,141,3461
+#140-10,deepseek,leukopenia,,13,30,5,30,5.34,0,3053,352,3405
+#140-10,final_consensus,No leukopenia (grade 0 decrease of white cells),,13,30,5,30,9.35,0,6373,493,6866
+#140-11,gpt,leukopenia,,,,,,4.21,0,2348,165,2513
+#140-11,deepseek,,,,,,,6.38,0,2093,491,2584
+#140-11,final_consensus,leukopenia,,,,,,10.59,0,4441,656,5097
+#140-12,gpt,leukopenia,,,,,,5.84,0,1564,271,1835
+#140-12,deepseek,,,,,,,5.4,0,1390,339,1729
+#140-12,final_consensus,leukopenia,,,,,,11.24,0,2954,610,3564
+#140-13,gpt,,,,,,,9.43,0,2102,540,2642
+#140-13,deepseek,,,,,,,6.84,0,1947,420,2367
+#140-13,final_consensus,,,,,,,16.27,0,4049,960,5009
+#140-14,gpt,No leukopenia,,23,30,18,32,6.17,0,2455,256,2711
+#140-14,deepseek,leukopenia,,23,30,18,32,5.46,0,2195,343,2538
+#140-14,final_consensus,No leukopenia,,23,30,18,32,11.629999999999999,0,4650,599,5249
+#140-15,gpt,No leukopenia (grade 0),,30,39,23,41,4.09,0,2936,147,3083
+#140-15,deepseek,leukopenia,,30,39,23,41,8.35,0,2671,689,3360
+#140-15,final_consensus,No leukopenia (grade 0),,30,39,23,41,12.44,0,5607,836,6443
+#140-16,gpt,No leukopenia (grade 0),,20,144,28,144,3.2,0,4567,125,4692
+#140-16,deepseek,leukopenia,,20,144,28,144,6.45,0,4201,405,4606
+#140-16,final_consensus,No leukopenia (grade 0),,20,144,28,144,9.65,0,8768,530,9298
+#140-17,gpt,leukopenia,,,,,,6.48,0,2108,362,2470
+#140-17,deepseek,,,,,,,9.91,0,1848,783,2631
+#140-17,final_consensus,leukopenia,,,,,,16.39,0,3956,1145,5101
+#140-6,gpt,leukopenia,,,,,,2.96,0,2298,123,2421
+#140-6,deepseek,,,,,,,6.46,0,2121,380,2501
+#140-6,final_consensus,leukopenia,,,,,,9.42,0,4419,503,4922
+#140-7,gpt,No leukopenia (grade 0),,33,64,13,63,3.93,0,5967,175,6142
+#140-7,deepseek,leukopenia,,33,64,13,63,8.02,0,5633,562,6195
+#140-7,final_consensus,No leukopenia (grade 0),,33,64,13,63,11.95,0,11600,737,12337
+#140-8,gpt,No leukopenia (grade 0 leukocyte decrease),,14,34,6,34,3.65,0,3225,127,3352
+#140-8,deepseek,leukopenia,,14,34,6,34,4.21,0,2935,261,3196
+#140-8,final_consensus,No leukopenia (grade 0 leukocyte decrease),,14,34,6,34,7.859999999999999,0,6160,388,6548
+#140-9,gpt,No leukopenia (grade 0),,,,,,7.4,0,3004,509,3513
+#140-9,deepseek,,,,,,,6.17,0,2639,402,3041
+#140-9,final_consensus,No leukopenia (grade 0),,,,,,13.57,0,5643,911,6554

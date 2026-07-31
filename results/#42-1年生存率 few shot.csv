@@ -1,0 +1,10 @@
+﻿id,model,outcome,cot,intervention_event,intervention_n,control_event,control_n,time,human_time,input_tokens,output_tokens,total_tokens
+#42-5,gpt,,,,,,,2.95,0,2053,58,2111
+#42-5,deepseek,,,,,,,3.49,0,1842,71,1913
+#42-5,final_consensus,,,,,,,6.44,0,3895,129,4024
+#42-6,gpt,1年生存率,,20,27,6,27,4.02,0,1615,203,1818
+#42-6,deepseek,1年生存率,,20,27,6,27,4.89,0,1423,186,1609
+#42-6,final_consensus,1年生存率,,20,27,6,27,8.91,0,3038,389,3427
+#42-8,gpt,,,,,,,5.7,0,2728,74,2802
+#42-8,deepseek,,,,,,,3.99,0,2448,110,2558
+#42-8,final_consensus,,,,,,,9.690000000000001,0,5176,184,5360

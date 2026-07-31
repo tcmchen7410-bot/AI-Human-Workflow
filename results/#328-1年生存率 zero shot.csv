@@ -1,0 +1,79 @@
+﻿id,model,outcome,cot,intervention_event,intervention_n,control_event,control_n,time,human_time,input_tokens,output_tokens,total_tokens
+#328-1,gpt,1-year survival rate,,,,,,6.01,0.0,3625,106,3731
+#328-1,deepseek,,,,,,,3.65,0.0,3305,74,3379
+#328-1,final_consensus,1-year survival rate,,,,,,9.66,0.0,6930,180,7110
+#328-11,gpt,,,,,,,3.13,0.0,2079,105,2184
+#328-11,deepseek,,,,,,,6.52,0.0,1928,348,2276
+#328-11,final_consensus,,,,,,,9.649999999999999,0.0,4007,453,4460
+#328-12,gpt,1-year survival rate,,,,,,3.25,0.0,3175,97,3272
+#328-12,deepseek,,,,,,,9.36,0.0,2925,565,3490
+#328-12,final_consensus,1-year survival rate,,,,,,12.61,0.0,6100,662,6762
+#328-13,gpt,1-year survival rate,,,,,,3.04,0.0,2306,98,2404
+#328-13,deepseek,,,,,,,5.29,0.0,2108,225,2333
+#328-13,final_consensus,1-year survival rate,,,,,,8.33,0.0,4414,323,4737
+#328-14,gpt,,,,,,,4.08,0.0,3529,145,3674
+#328-14,deepseek,1-year survival rate,,,,,,9.37,0.0,3278,588,3866
+#328-14,final_consensus,,,,,,,13.45,0.0,6807,733,7540
+#328-15,gpt,1-year survival rate,,47,59,44,60,13.04,0.0,2603,552,3155
+#328-15,deepseek,,,,,,,119.52,0.0,2366,443,2809
+#328-15,final_human_override,1年生存率,,51,63,47,63,132.56,275.44,4969,995,5964
+#328-16,gpt,1-year survival rate,,,,,,9.23,0.0,3275,142,3417
+#328-16,deepseek,,,,,,,7.39,0.0,2902,314,3216
+#328-16,final_consensus,1-year survival rate,,,,,,16.62,0.0,6177,456,6633
+#328-17,gpt,1-year survival rate,,,,,,5.22,0.0,2823,144,2967
+#328-17,deepseek,,,,,,,7.59,0.0,2560,301,2861
+#328-17,final_consensus,1-year survival rate,,,,,,12.809999999999999,0.0,5383,445,5828
+#328-18,gpt,1-year survival rate,,,,,,5.13,0.0,2535,144,2679
+#328-18,deepseek,,,,,,,8.05,0.0,2255,166,2421
+#328-18,final_consensus,1-year survival rate,,,,,,13.18,0.0,4790,310,5100
+#328-19,gpt,1-year survival rate,,33,62,30,62,3.81,0.0,1801,84,1885
+#328-19,deepseek,1-year survival rate,,33,62,30,62,4.59,0.0,1569,220,1789
+#328-19,final_consensus,1-year survival rate,,33,62,30,62,8.4,0.0,3370,304,3674
+#328-2,gpt,1-year survival rate,,,,,,4.03,0.0,2428,186,2614
+#328-2,deepseek,1-year survival rate,,,,,,10.93,0.0,2266,530,2796
+#328-2,final_consensus,1-year survival rate,,,,,,14.96,0.0,4694,716,5410
+#328-20,gpt,1-year survival rate,,,,,,4.55,0.0,2217,103,2320
+#328-20,deepseek,,,,,,,4.76,0.0,2029,200,2229
+#328-20,final_consensus,1-year survival rate,,,,,,9.309999999999999,0.0,4246,303,4549
+#328-21,gpt,1-year survival rate,,,,,,3.09,0.0,3848,124,3972
+#328-21,deepseek,1-year survival rate,,,,,,7.51,0.0,3431,290,3721
+#328-21,final_consensus,1-year survival rate,,,,,,10.6,0.0,7279,414,7693
+#328-22,gpt,1-year survival rate,,,,,,3.82,0.0,2968,102,3070
+#328-22,deepseek,,,,,,,8.31,0.0,2699,418,3117
+#328-22,final_consensus,1-year survival rate,,,,,,12.13,0.0,5667,520,6187
+#328-23,gpt,1-year survival rate,,,39,,39,10.44,0.0,4220,497,4717
+#328-23,deepseek,1-year survival rate,,,39,,39,23.71,0.0,3841,1433,5274
+#328-23,final_consensus,1-year survival rate,,,39,,39,34.15,0.0,8061,1930,9991
+#328-24,gpt,1-year survival rate,,,,,,4.04,0.0,4388,147,4535
+#328-24,deepseek,,,,,,,5.96,0.0,3919,269,4188
+#328-24,final_consensus,1-year survival rate,,,,,,10.0,0.0,8307,416,8723
+#328-25,gpt,1-year survival rate,,12,25,9,26,3.3,0.0,1681,84,1765
+#328-25,deepseek,1-year survival rate,,12,25,9,26,3.85,0.0,1524,178,1702
+#328-25,final_consensus,1-year survival rate,,12,25,9,26,7.15,0.0,3205,262,3467
+#328-26,gpt,1-year survival rate,,,,,,8.12,0.0,2394,124,2518
+#328-26,deepseek,,,,,,,5.17,0.0,2129,198,2327
+#328-26,final_consensus,1-year survival rate,,,,,,13.29,0.0,4523,322,4845
+#328-27,gpt,1-year survival rate,,26,50,25,50,10.5,0.0,2722,552,3274
+#328-27,deepseek,1-year survival rate,,26,50,25,50,10.89,0.0,2397,558,2955
+#328-27,final_consensus,1-year survival rate,,26,50,25,50,21.39,0.0,5119,1110,6229
+#328-3,gpt,1-year survival rate,,18,30,9,30,3.43,0.0,3305,94,3399
+#328-3,deepseek,1-year survival rate,,18,30,9,30,7.72,0.0,3042,189,3231
+#328-3,final_consensus,1-year survival rate,,18,30,9,30,11.15,0.0,6347,283,6630
+#328-4,gpt,1-year survival rate,,,,,,3.87,0.0,3200,93,3293
+#328-4,deepseek,,,,,,,6.49,0.0,2966,176,3142
+#328-4,final_consensus,1-year survival rate,,,,,,10.36,0.0,6166,269,6435
+#328-5,gpt,,,,,,,4.26,0.0,4871,125,4996
+#328-5,deepseek,,,,,,,6.5,0.0,4411,260,4671
+#328-5,final_consensus,,,,,,,10.76,0.0,9282,385,9667
+#328-6,gpt,1-year survival rate,,,,,,3.42,0.0,3142,112,3254
+#328-6,deepseek,,,,,,,8.83,0.0,2862,460,3322
+#328-6,final_consensus,1-year survival rate,,,,,,12.25,0.0,6004,572,6576
+#328-7,gpt,1-year survival rate,,,,,,2.9,0.0,2470,84,2554
+#328-7,deepseek,,,,,,,5.09,0.0,2207,188,2395
+#328-7,final_consensus,1-year survival rate,,,,,,7.99,0.0,4677,272,4949
+#328-8,gpt,1-year survival rate,,,,,,5.44,0.0,2936,101,3037
+#328-8,deepseek,1-year survival rate,,,,,,11.18,0.0,2573,586,3159
+#328-8,final_consensus,1-year survival rate,,,,,,16.62,0.0,5509,687,6196
+#328-9,gpt,1-year survival rate,,,,,,4.06,0.0,1622,130,1752
+#328-9,deepseek,1-year survival rate,,,,,,5.17,0.0,1459,117,1576
+#328-9,final_consensus,1-year survival rate,,,,,,9.23,0.0,3081,247,3328

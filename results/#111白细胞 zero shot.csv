@@ -1,0 +1,22 @@
+﻿id,model,outcome,cot,intervention_event,intervention_n,control_event,control_n,time,human_time,input_tokens,output_tokens,total_tokens
+#111-11,gpt,leukopenia,,,,,,3.58,0.0,3725,146,3871
+#111-11,deepseek,leukopenia,,,,,,8.03,0.0,3405,513,3918
+#111-11,final_consensus,leukopenia,,,,,,11.61,0.0,7130,659,7789
+#111-12,gpt,leukopenia,,23,35,25,30,3.79,0.0,3497,138,3635
+#111-12,deepseek,leukopenia,,23,35,25,30,4.5,0.0,3226,294,3520
+#111-12,final_consensus,leukopenia,,23,35,25,30,8.29,0.0,6723,432,7155
+#111-13,gpt,leukopenia (grade ≥1),,8,35,23,35,2.97,0.0,2925,127,3052
+#111-13,deepseek,leukopenia,,8,35,23,35,4.92,0.0,2674,286,2960
+#111-13,final_consensus,leukopenia (grade ≥1),,8,35,23,35,7.890000000000001,0.0,5599,413,6012
+#111-14,gpt,leukopenia (white blood cell decrease grade I–IV),,16,35,26,35,3.14,0.0,2595,124,2719
+#111-14,deepseek,leukopenia,,16,35,26,35,4.99,0.0,2310,283,2593
+#111-14,final_consensus,leukopenia (white blood cell decrease grade I–IV),,16,35,26,35,8.13,0.0,4905,407,5312
+#111-15,gpt,leukopenia,,12,50,27,50,2.2,0.0,4230,88,4318
+#111-15,deepseek,leukopenia,,12,50,27,50,4.42,0.0,3959,258,4217
+#111-15,final_consensus,leukopenia,,12,50,27,50,6.62,0.0,8189,346,8535
+#111-16,gpt,leukopenia (white blood cell decrease grade ≥1),,8,30,11,30,2.94,0.0,2810,131,2941
+#111-16,deepseek,leukopenia,,8,30,11,30,5.33,0.0,2533,303,2836
+#111-16,final_consensus,leukopenia (white blood cell decrease grade ≥1),,8,30,11,30,8.27,0.0,5343,434,5777
+#111-17,gpt,leukopenia,,,,,,3.53,0.0,3685,134,3819
+#111-17,deepseek,leukopenia,,,21,,22,13.43,0.0,3329,1006,4335
+#111-17,final_human_override,leukopenia,,,,,,16.96,59.72,7014,1140,8154

@@ -1,0 +1,43 @@
+﻿id,model,outcome,cot,intervention_event,intervention_n,control_event,control_n,time,human_time,input_tokens,output_tokens,total_tokens
+#27-15,gpt,Improved KPS score (increase >=10 points),,6,35,3,35,4.11,0.0,2932,116,3048
+#27-15,deepseek,quality of life,,6,35,3,35,5.26,0.0,2681,182,2863
+#27-15,final_consensus,Improved KPS score (increase >=10 points),,6,35,3,35,9.370000000000001,0.0,5613,298,5911
+#27-16,gpt,KPS score increase >=10 points,,30,63,23,63,3.32,0.0,2691,104,2795
+#27-16,deepseek,quality of life,,30,63,23,63,4.92,0.0,2477,290,2767
+#27-16,final_consensus,KPS score increase >=10 points,,30,63,23,63,8.24,0.0,5168,394,5562
+#27-17,gpt,KPS score increase >=10 points,,,,,,3.92,0.0,4863,139,5002
+#27-17,deepseek,improved KPS score (increase >=10 points),,,,,,10.32,0.0,4517,737,5254
+#27-17,final_consensus,KPS score increase >=10 points,,,,,,14.24,0.0,9380,876,10256
+#27-18,gpt,,,,,,,4.34,0.0,3352,136,3488
+#27-18,deepseek,,,,,,,4.97,0.0,3049,276,3325
+#27-18,final_consensus,,,,,,,9.309999999999999,0.0,6401,412,6813
+#27-19,gpt,,,,,,,2.67,0.0,4681,84,4765
+#27-19,deepseek,,,,,,,4.91,0.0,4259,249,4508
+#27-19,final_consensus,,,,,,,7.58,0.0,8940,333,9273
+#27-20,gpt,,,,,,,3.38,0.0,7072,148,7220
+#27-20,deepseek,,,,,,,6.54,0.0,6464,352,6816
+#27-20,final_consensus,,,,,,,9.92,0.0,13536,500,14036
+#27-21,gpt,KPS score increase >=10 points,,,,,,4.42,0.0,3489,136,3625
+#27-21,deepseek,,,,,,,6.7,0.0,3194,418,3612
+#27-21,final_consensus,KPS score increase >=10 points,,,,,,11.120000000000001,0.0,6683,554,7237
+#27-22,gpt,Improved KPS score (increase ≥10 points),,25,39,16,39,5.32,0.0,4236,128,4364
+#27-22,deepseek,quality of life improvement (KPS increase ≥10 points),,25,39,16,39,7.24,0.0,3857,444,4301
+#27-22,final_consensus,Improved KPS score (increase ≥10 points),,25,39,16,39,12.56,0.0,8093,572,8665
+#27-23,gpt,KPS score increase ≥10 points,,,,,,11.66,0.0,4296,529,4825
+#27-23,deepseek,KPS score increase >= 10 points,,,50,,50,9.52,0.0,4031,670,4701
+#27-23,final_human_override,KPS score increase ≥10 points,,,,,,21.18,31.23,8327,1199,9526
+#27-24,gpt,KPS score increase ≥10 points,,50,99,38,101,5.23,0.0,4919,175,5094
+#27-24,deepseek,quality of life,,50,99,38,101,18.74,0.0,4458,1550,6008
+#27-24,final_consensus,KPS score increase ≥10 points,,50,99,38,101,23.97,0.0,9377,1725,11102
+#27-25,gpt,Number of people with improved KPS score (KPS increase ≥10 points),,7,35,2,35,4.13,0.0,2490,118,2608
+#27-25,deepseek,quality of life,,7,35,2,35,4.05,0.0,2227,218,2445
+#27-25,final_consensus,Number of people with improved KPS score (KPS increase ≥10 points),,7,35,2,35,8.18,0.0,4717,336,5053
+#27-26,gpt,,,,,,,3.9,0.0,4476,131,4607
+#27-26,deepseek,,,,,,,10.53,0.0,3959,800,4759
+#27-26,final_consensus,,,,,,,14.43,0.0,8435,931,9366
+#27-27,gpt,,,,,,,2.58,0.0,2800,78,2878
+#27-27,deepseek,,,,,,,4.51,0.0,2467,277,2744
+#27-27,final_consensus,,,,,,,7.09,0.0,5267,355,5622
+#27-28,gpt,,,,,,,3.71,0.0,2400,109,2509
+#27-28,deepseek,,,,,,,3.34,0.0,2192,155,2347
+#27-28,final_consensus,,,,,,,7.05,0.0,4592,264,4856

@@ -1,0 +1,31 @@
+﻿id,model,outcome,cot,intervention_event,intervention_n,control_event,control_n,time,human_time,input_tokens,output_tokens,total_tokens
+#67-10,gpt,Objective Response Rate,,,,,,3.64,0,2167,111,2278
+#67-10,deepseek,,,,,,,6.1,0,1926,366,2292
+#67-10,final_consensus,Objective Response Rate,,,,,,9.74,0,4093,477,4570
+#67-11,gpt,Objective Response Rate (CR+PR),,9,20,7,20,3.87,0,2158,112,2270
+#67-11,deepseek,Objective Response Rate (CR+PR),,9,20,7,20,5.99,0,1892,400,2292
+#67-11,final_consensus,Objective Response Rate (CR+PR),,9,20,7,20,9.86,0,4050,512,4562
+#67-12,gpt,Objective Response Rate,,16,34,15,34,2.86,0,3184,99,3283
+#67-12,deepseek,Objective Response Rate (CR+PR),,16,34,15,34,3.05,0,2904,131,3035
+#67-12,final_consensus,Objective Response Rate,,16,34,15,34,5.91,0,6088,230,6318
+#67-13,gpt,Objective Response Rate (CR+PR),,39,64,23,63,11.09,0,5966,556,6522
+#67-13,deepseek,Objective Response Rate,,39,64,23,63,5.08,0,5634,162,5796
+#67-13,final_consensus,Objective Response Rate (CR+PR),,39,64,23,63,16.17,0,11600,718,12318
+#67-14,gpt,Objective Response Rate (CR+PR),,23,39,15,41,3.98,0,2920,115,3035
+#67-14,deepseek,Objective Response Rate,,23,39,15,41,5.34,0,2659,333,2992
+#67-14,final_consensus,Objective Response Rate (CR+PR),,23,39,15,41,9.32,0,5579,448,6027
+#67-15,gpt,Objective Response Rate,,16,25,11,20,4.23,0,2205,96,2301
+#67-15,deepseek,Objective Response Rate,,16,25,11,20,6.75,0,2103,507,2610
+#67-15,final_consensus,Objective Response Rate,,16,25,11,20,10.98,0,4308,603,4911
+#67-6,gpt,Objective Response Rate (CR+PR),,16,30,11,31,3.27,0,1548,88,1636
+#67-6,deepseek,Objective Response Rate (CR+PR),,16,30,11,31,3.49,0,1378,137,1515
+#67-6,final_consensus,Objective Response Rate (CR+PR),,16,30,11,31,6.76,0,2926,225,3151
+#67-7,gpt,Objective Response Rate,,,,,,3.69,0,2374,146,2520
+#67-7,deepseek,,,,,,,6.1,0,2084,362,2446
+#67-7,final_consensus,Objective Response Rate,,,,,,9.79,0,4458,508,4966
+#67-8,gpt,Objective Response Rate (CR+PR),,17,30,12,32,3.79,0,2448,89,2537
+#67-8,deepseek,Objective Response Rate (CR+PR),,17,30,12,32,3.33,0,2196,173,2369
+#67-8,final_consensus,Objective Response Rate (CR+PR),,17,30,12,32,7.12,0,4644,262,4906
+#67-9,gpt,Objective Response Rate (CR+PR),,10,22,10,20,5.53,0,1231,246,1477
+#67-9,deepseek,Objective Response Rate (CR+PR),,10,22,10,20,3.99,0,1082,151,1233
+#67-9,final_consensus,Objective Response Rate (CR+PR),,10,22,10,20,9.52,0,2313,397,2710

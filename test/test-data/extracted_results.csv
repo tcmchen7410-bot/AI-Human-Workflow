@@ -1,0 +1,5 @@
+﻿study_id,cot,outcome,intervention_n,intervention_event,control_n,control_event
+#1-15,,pain improvement rate,,,,
+#1-16,,pain improvement rate,30,23,30,15
+#1-17,,pain improvement rate (VRS 0–10 score reduced by 3 points),22,14,21,6
+#1-18,,,,,,

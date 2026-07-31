@@ -1,0 +1,34 @@
+﻿id,model,outcome,cot,intervention_event,intervention_n,control_event,control_n,time,human_time,input_tokens,output_tokens,total_tokens
+#4-10,gpt,cardiac function impairment,,,,,,4.29,0.0,1532,166,1698
+#4-10,deepseek,,,,,,,7.11,0.0,1387,504,1891
+#4-10,final_consensus,cardiac function impairment,,,,,,11.4,0.0,2919,670,3589
+#4-11,gpt,cardiac function impairment,,,,,,4.1,0.0,1610,146,1756
+#4-11,deepseek,,,,,,,4.01,0.0,1409,276,1685
+#4-11,final_consensus,cardiac function impairment,,,,,,8.11,0.0,3019,422,3441
+#4-12,gpt,,,,,,,3.4,0.0,3746,170,3916
+#4-12,deepseek,,,,,,,6.56,0.0,3421,496,3917
+#4-12,final_consensus,,,,,,,9.959999999999999,0.0,7167,666,7833
+#4-13,gpt,血小板下降≥I级,,9,30,12,30,4.47,0.0,2440,236,2676
+#4-13,deepseek,cardiac function impairment,,9,30,12,30,9.3,0.0,2197,816,3013
+#4-13,final_consensus,血小板下降≥I级,,9,30,12,30,13.77,0.0,4637,1052,5689
+#4-14,gpt,Thrombocytopenia (grade ≥1),,20,35,22,35,5.31,0.0,2913,207,3120
+#4-14,deepseek,cardiac function impairment,,20,35,22,35,11.22,0.0,2662,899,3561
+#4-14,final_consensus,Thrombocytopenia (grade ≥1),,20,35,22,35,16.53,0.0,5575,1106,6681
+#4-4,gpt,,,,,,,3.07,0.0,1085,137,1222
+#4-4,deepseek,,,,,,,4.14,0.0,974,290,1264
+#4-4,final_consensus,,,,,,,7.209999999999999,0.0,2059,427,2486
+#4-5,gpt,Thrombocytopenia (grade ≥1),,23,50,29,50,5.36,0.0,4702,321,5023
+#4-5,deepseek,cardiac function impairment,,23,50,29,50,8.34,0.0,4397,643,5040
+#4-5,final_consensus,Thrombocytopenia (grade ≥1),,23,50,29,50,13.7,0.0,9099,964,10063
+#4-6,gpt,血小板减少≥I度,,4,12,7,12,4.83,0.0,3274,217,3491
+#4-6,deepseek,cardiac function impairment,,,,,,8.01,0.0,3013,699,3712
+#4-6,final_human_override,cardiac function impairment,,,,,,12.84,54.65,6287,916,7203
+#4-7,gpt,cardiac function impairment,,,,,,9.57,0.0,4365,546,4911
+#4-7,deepseek,,,,,,,10.96,0.0,3813,712,4525
+#4-7,final_consensus,cardiac function impairment,,,,,,20.53,0.0,8178,1258,9436
+#4-8,gpt,cardiac function impairment,,,,,,4.19,0.0,3501,212,3713
+#4-8,deepseek,,,,,,,6.6,0.0,3234,485,3719
+#4-8,final_consensus,cardiac function impairment,,,,,,10.79,0.0,6735,697,7432
+#4-9,gpt,cardiac function impairment,,,,,,4.8,0.0,2593,244,2837
+#4-9,deepseek,,,,,,,4.74,0.0,2312,299,2611
+#4-9,final_consensus,cardiac function impairment,,,,,,9.54,0.0,4905,543,5448

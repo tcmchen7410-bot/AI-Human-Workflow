@@ -1,0 +1,22 @@
+﻿id,model,outcome,cot,intervention_event,intervention_n,control_event,control_n,time,human_time,input_tokens,output_tokens,total_tokens
+#111-11,gpt,quality of life (KPS improved plus stable),,42,49,35,49,5.84,0.0,3719,208,3927
+#111-11,deepseek,improved plus stable quality of life,,42,49,35,49,16.24,0.0,3402,910,4312
+#111-11,final_consensus,quality of life (KPS improved plus stable),,42,49,35,49,22.08,0.0,7121,1118,8239
+#111-12,gpt,quality of life improved plus stable after treatment,,29,35,14,30,4.16,0.0,3491,145,3636
+#111-12,deepseek,quality of life improved + stable,,29,35,14,30,9.84,0.0,3223,673,3896
+#111-12,final_consensus,quality of life improved plus stable after treatment,,29,35,14,30,14.0,0.0,6714,818,7532
+#111-13,gpt,quality of life (improved plus stable KPS after treatment),,24,35,15,35,3.68,0.0,2919,100,3019
+#111-13,deepseek,improved plus stable quality of life,,24,35,15,35,5.22,0.0,2671,352,3023
+#111-13,final_consensus,quality of life (improved plus stable KPS after treatment),,24,35,15,35,8.9,0.0,5590,452,6042
+#111-14,gpt,quality of life (improved plus stable KPS after treatment),,23,35,15,35,3.95,0.0,2589,107,2696
+#111-14,deepseek,quality of life (improved + stable KPS score),,23,35,15,35,6.5,0.0,2307,358,2665
+#111-14,final_consensus,quality of life (improved plus stable KPS after treatment),,23,35,15,35,10.45,0.0,4896,465,5361
+#111-15,gpt,,,,,,,6.57,0.0,4224,270,4494
+#111-15,deepseek,,,,,,,5.71,0.0,3956,269,4225
+#111-15,final_consensus,,,,,,,12.280000000000001,0.0,8180,539,8719
+#111-16,gpt,Quality of life (Karnofsky score improved plus stable),,23,30,16,30,4.55,0.0,2804,190,2994
+#111-16,deepseek,quality of life (improved + stable Karnofsky score),,23,30,16,30,3.79,0.0,2530,132,2662
+#111-16,final_consensus,Quality of life (Karnofsky score improved plus stable),,23,30,16,30,8.34,0.0,5334,322,5656
+#111-17,gpt,quality of life (improved plus stable by Karnofsky performance status),,15,21,8,22,3.19,0.0,3679,158,3837
+#111-17,deepseek,,,,,,,6.6,0.0,3326,394,3720
+#111-17,final_human_override,,,,,,,9.79,90.77,7005,552,7557

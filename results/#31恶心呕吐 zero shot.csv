@@ -1,0 +1,43 @@
+﻿id,model,outcome,cot,intervention_event,intervention_n,control_event,control_n,time,human_time,input_tokens,output_tokens,total_tokens
+#31-10,gpt,chemotherapy-induced nausea and vomiting (vomit grade ≥1),,47,64,51,63,5.6,0.0,5954,150,6104
+#31-10,deepseek,chemotherapy-induced nausea and vomiting,,47,64,51,63,6.75,0.0,5632,499,6131
+#31-10,final_consensus,chemotherapy-induced nausea and vomiting (vomit grade ≥1),,47,64,51,63,12.35,0.0,11586,649,12235
+#31-11,gpt,chemotherapy-induced nausea and vomiting >= grade 1,,5,16,8,18,4.85,0.0,2705,143,2848
+#31-11,deepseek,chemotherapy-induced nausea and vomiting,,5,16,8,18,6.24,0.0,2495,421,2916
+#31-11,final_consensus,chemotherapy-induced nausea and vomiting >= grade 1,,5,16,8,18,11.09,0.0,5200,564,5764
+#31-12,gpt,chemotherapy-induced nausea and vomiting >= grade 1,,5,39,10,41,3.61,0.0,2929,133,3062
+#31-12,deepseek,chemotherapy-induced nausea and vomiting,,5,39,10,41,7.17,0.0,2669,410,3079
+#31-12,final_consensus,chemotherapy-induced nausea and vomiting >= grade 1,,5,39,10,41,10.78,0.0,5598,543,6141
+#31-13,gpt,chemotherapy-induced nausea and vomiting >= grade 1,,8,23,16,22,3.75,0.0,3262,109,3371
+#31-13,deepseek,chemotherapy-induced nausea and vomiting,,8,23,16,22,12.12,0.0,2789,1083,3872
+#31-13,final_consensus,chemotherapy-induced nausea and vomiting >= grade 1,,8,23,16,22,15.87,0.0,6051,1192,7243
+#31-14,gpt,chemotherapy-induced nausea and vomiting,,4,30,8,32,3.38,0.0,2468,103,2571
+#31-14,deepseek,chemotherapy-induced nausea and vomiting,,4,30,8,32,4.31,0.0,2212,273,2485
+#31-14,final_consensus,chemotherapy-induced nausea and vomiting,,4,30,8,32,7.6899999999999995,0.0,4680,376,5056
+#31-15,gpt,chemotherapy-induced nausea and vomiting,,,,,,10.38,0.0,2926,542,3468
+#31-15,deepseek,chemotherapy-induced nausea and vomiting,,,50,,50,13.26,0.0,2607,957,3564
+#31-15,final_human_override,chemotherapy-induced nausea and vomiting,,,,,,23.64,102.89,5533,1499,7032
+#31-16,gpt,chemotherapy-induced nausea and vomiting >= grade 1,,12,32,25,30,4.73,0.0,2166,151,2317
+#31-16,deepseek,chemotherapy-induced nausea and vomiting,,12,32,25,30,10.34,0.0,2000,776,2776
+#31-16,final_consensus,chemotherapy-induced nausea and vomiting >= grade 1,,12,32,25,30,15.07,0.0,4166,927,5093
+#31-17,gpt,chemotherapy-induced nausea and vomiting,,3,28,7,30,3.89,0.0,2257,116,2373
+#31-17,deepseek,chemotherapy-induced nausea and vomiting,,3,28,7,30,4.62,0.0,1977,258,2235
+#31-17,final_consensus,chemotherapy-induced nausea and vomiting,,3,28,7,30,8.51,0.0,4234,374,4608
+#31-4,gpt,chemotherapy-induced nausea and vomiting >= grade 1,,21,41,24,41,3.42,0.0,2414,155,2569
+#31-4,deepseek,chemotherapy-induced nausea and vomiting,,21,41,24,41,7.22,0.0,2116,556,2672
+#31-4,final_consensus,chemotherapy-induced nausea and vomiting >= grade 1,,21,41,24,41,10.64,0.0,4530,711,5241
+#31-5,gpt,chemotherapy-induced nausea and vomiting (>= grade 1),,13,34,15,34,4.1,0.0,3213,133,3346
+#31-5,deepseek,chemotherapy-induced nausea and vomiting,,13,34,15,34,3.84,0.0,2933,211,3144
+#31-5,final_consensus,chemotherapy-induced nausea and vomiting (>= grade 1),,13,34,15,34,7.9399999999999995,0.0,6146,344,6490
+#31-6,gpt,,,,,,,9.36,0.0,3014,541,3555
+#31-6,deepseek,,,,,,,15.66,0.0,2655,1247,3902
+#31-6,final_consensus,,,,,,,25.02,0.0,5669,1788,7457
+#31-7,gpt,chemotherapy-induced nausea and vomiting (grade >=1),,8,50,13,50,3.19,0.0,4248,98,4346
+#31-7,deepseek,chemotherapy-induced nausea and vomiting,,8,50,13,50,4.56,0.0,3979,266,4245
+#31-7,final_consensus,chemotherapy-induced nausea and vomiting (grade >=1),,8,50,13,50,7.75,0.0,8227,364,8591
+#31-8,gpt,chemotherapy-induced nausea and vomiting >= grade 1,,10,39,20,41,3.88,0.0,3587,117,3704
+#31-8,deepseek,chemotherapy-induced nausea and vomiting,,10,39,20,41,5.45,0.0,3341,381,3722
+#31-8,final_consensus,chemotherapy-induced nausea and vomiting >= grade 1,,10,39,20,41,9.33,0.0,6928,498,7426
+#31-9,gpt,chemotherapy-induced nausea and vomiting (恶心呕吐),,6,36,13,36,3.83,0.0,2815,113,2928
+#31-9,deepseek,chemotherapy-induced nausea and vomiting,,6,36,13,36,4.76,0.0,2471,319,2790
+#31-9,final_consensus,chemotherapy-induced nausea and vomiting (恶心呕吐),,6,36,13,36,8.59,0.0,5286,432,5718

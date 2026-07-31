@@ -1,0 +1,94 @@
+﻿id,model,outcome,cot,intervention_event,intervention_n,control_event,control_n,time,human_time,input_tokens,output_tokens,total_tokens
+NULL,gpt,leukopenia,,,,,,5.03,0.0,3089,174,3263
+#335-15,deepseek,,,,,,,8.3,0.0,2782,474,3256
+#335-15,final_consensus,leukopenia,,,,,,13.330000000000002,0.0,5871,648,6519
+#335-16,gpt,leukopenia,,,,,,7.54,0.0,4028,261,4289
+#335-16,deepseek,leukopenia,,,,,,7.02,0.0,3670,295,3965
+#335-16,final_consensus,leukopenia,,,,,,14.559999999999999,0.0,7698,556,8254
+#335-17,gpt,leukopenia,,15,51,18,51,5.24,0.0,3298,158,3456
+#335-17,deepseek,leukopenia,,15,51,18,51,5.59,0.0,2960,201,3161
+#335-17,final_consensus,leukopenia,,15,51,18,51,10.83,0.0,6258,359,6617
+#335-18,gpt,leukopenia,,,28,,27,11.32,0.0,1722,550,2272
+#335-18,deepseek,,,,,,,7.35,0.0,1586,389,1975
+#335-18,final_human_override,leukopenia,,,,,,18.67,63.12,3308,939,4247
+#335-19,gpt,leukopenia (white blood cell decrease grade ≥1),,9,12,11,12,4.66,0.0,3276,162,3438
+#335-19,deepseek,leukopenia,,9,12,11,12,5.86,0.0,3012,315,3327
+#335-19,final_consensus,leukopenia (white blood cell decrease grade ≥1),,9,12,11,12,10.52,0.0,6288,477,6765
+#335-20,gpt,leukopenia,,,,,,4.98,0.0,2254,188,2442
+#335-20,deepseek,leukopenia,,,,,,7.68,0.0,1940,473,2413
+#335-20,final_consensus,leukopenia,,,,,,12.66,0.0,4194,661,4855
+#335-21,gpt,leukopenia (white blood cell decrease grade ≥1),,16,35,26,35,4.0,0.0,2489,143,2632
+#335-21,deepseek,leukopenia,,16,35,26,35,5.32,0.0,2223,288,2511
+#335-21,final_consensus,leukopenia (white blood cell decrease grade ≥1),,16,35,26,35,9.32,0.0,4712,431,5143
+#335-22,gpt,leukopenia,,,,,,3.49,0.0,3508,103,3611
+#335-22,deepseek,leukopenia,,,,,,11.44,0.0,3182,842,4024
+#335-22,final_consensus,leukopenia,,,,,,14.93,0.0,6690,945,7635
+#335-23,gpt,leukopenia,,,,,,10.57,0.0,3986,446,4432
+#335-23,deepseek,leukopenia,,,,,,8.73,0.0,3574,407,3981
+#335-23,final_consensus,leukopenia,,,,,,19.3,0.0,7560,853,8413
+#335-24,gpt,leukopenia,,,,,,8.8,0.0,3201,353,3554
+#335-24,deepseek,leukopenia,,,,,,7.15,0.0,2911,354,3265
+#335-24,final_consensus,leukopenia,,,,,,15.950000000000001,0.0,6112,707,6819
+#335-25,gpt,leukopenia,,,,,,5.33,0.0,2801,191,2992
+#335-25,deepseek,,,,,,,11.66,0.0,2565,721,3286
+#335-25,final_consensus,leukopenia,,,,,,16.990000000000002,0.0,5366,912,6278
+#335-26,gpt,leukopenia,,,,,,7.9,0.0,3822,342,4164
+#335-26,deepseek,leukopenia,,,,,,9.31,0.0,3529,516,4045
+#335-26,final_consensus,leukopenia,,,,,,17.21,0.0,7351,858,8209
+#335-27,gpt,,,,,,,8.19,0.0,2254,309,2563
+#335-27,deepseek,,,,,,,9.03,0.0,2087,544,2631
+#335-27,final_consensus,,,,,,,17.22,0.0,4341,853,5194
+#335-28,gpt,leukopenia,,,,,,3.69,0.0,2689,80,2769
+#335-28,deepseek,leukopenia,,,,,,6.96,0.0,2473,383,2856
+#335-28,final_consensus,leukopenia,,,,,,10.65,0.0,5162,463,5625
+#335-29,gpt,leukopenia (grade >=1),,8,35,23,35,4.49,0.0,2925,132,3057
+#335-29,deepseek,leukopenia,,8,35,23,35,4.68,0.0,2674,263,2937
+#335-29,final_consensus,leukopenia (grade >=1),,8,35,23,35,9.17,0.0,5599,395,5994
+#335-30,gpt,leukopenia,,,,,,2.92,0.0,2619,97,2716
+#335-30,deepseek,leukopenia,,,,,,5.67,0.0,2386,247,2633
+#335-30,final_consensus,leukopenia,,,,,,8.59,0.0,5005,344,5349
+#335-31,gpt,leukopenia,,15,43,26,43,8.77,0.0,3296,376,3672
+#335-31,deepseek,leukopenia,,15,43,24,43,14.98,0.0,2920,1116,4036
+#335-31,final_human_override,,,,,,,23.75,113.14,6216,1492,7708
+#335-32,gpt,leukopenia,,,,,,4.85,0.0,4025,113,4138
+#335-32,deepseek,,,,,,,7.52,0.0,3646,423,4069
+#335-32,final_consensus,leukopenia,,,,,,12.37,0.0,7671,536,8207
+#335-33,gpt,leukopenia,,,,,,2.65,0.0,2372,86,2458
+#335-33,deepseek,,,,,,,5.72,0.0,2176,364,2540
+#335-33,final_consensus,leukopenia,,,,,,8.37,0.0,4548,450,4998
+#335-34,gpt,leukopenia,,,35,,35,6.07,0.0,4371,241,4612
+#335-34,deepseek,leukopenia,,,35,,35,8.92,0.0,3814,502,4316
+#335-34,final_consensus,leukopenia,,,35,,35,14.99,0.0,8185,743,8928
+#335-35,gpt,leukopenia,,,,,,5.01,0.0,2137,136,2273
+#335-35,deepseek,leukopenia,,,,,,6.15,0.0,1911,258,2169
+#335-35,final_consensus,leukopenia,,,,,,11.16,0.0,4048,394,4442
+#335-36,gpt,leukopenia,,,,,,7.99,0.0,3336,392,3728
+#335-36,deepseek,,,,,,,9.11,0.0,2995,611,3606
+#335-36,final_consensus,leukopenia,,,,,,17.1,0.0,6331,1003,7334
+#335-37,gpt,leukopenia (white blood cell reduction grade ≥1),,7,43,10,43,4.62,0.0,3620,135,3755
+#335-37,deepseek,leukopenia,,7,43,10,43,5.31,0.0,3198,365,3563
+#335-37,final_consensus,leukopenia (white blood cell reduction grade ≥1),,7,43,10,43,9.93,0.0,6818,500,7318
+#335-38,gpt,leukopenia,,1,36,4,36,3.91,0,4676,126,4802
+#335-38,deepseek,leukopenia,,1,36,4,36,5.53,0,4352,235,4587
+#335-38,final_consensus,leukopenia,,1,36,4,36,9.440000000000001,0,9028,361,9389
+#335-39,gpt,leukopenia,,12,49,13,49,4.83,0.0,2810,181,2991
+#335-39,deepseek,leukopenia,,12,49,13,49,4.44,0.0,2491,165,2656
+#335-39,final_consensus,leukopenia,,12,49,13,49,9.27,0.0,5301,346,5647
+#335-40,gpt,leukopenia,,,,,,2.13,0.0,1988,92,2080
+#335-40,deepseek,leukopenia,,,,,,5.27,0.0,1676,283,1959
+#335-40,final_consensus,leukopenia,,,,,,7.3999999999999995,0.0,3664,375,4039
+#335-41,gpt,leukopenia,,,,,,5.14,0.0,1660,112,1772
+#335-41,deepseek,,,,,,,10.28,0.0,1512,686,2198
+#335-41,final_consensus,leukopenia,,,,,,15.419999999999998,0.0,3172,798,3970
+#335-42,gpt,,,,,,,5.69,0.0,4863,263,5126
+#335-42,deepseek,,,,,,,8.48,0.0,4514,520,5034
+#335-42,final_consensus,,,,,,,14.170000000000002,0.0,9377,783,10160
+#335-43,gpt,leukopenia,,,,,,3.46,0.0,3303,115,3418
+#335-43,deepseek,,,,,,,3.9,0.0,2996,265,3261
+#335-43,final_consensus,leukopenia,,,,,,7.359999999999999,0.0,6299,380,6679
+#335-44,gpt,leukopenia,,,,,,4.46,0.0,3283,189,3472
+#335-44,deepseek,,,,,,,5.65,0.0,2932,248,3180
+#335-44,final_consensus,leukopenia,,,,,,10.11,0.0,6215,437,6652
+#335-45,gpt,leukopenia,,2,50,5,50,4.98,0.0,2965,185,3150
+#335-45,deepseek,leukopenia,,2,50,5,50,4.16,0.0,2615,248,2863
+#335-45,final_consensus,leukopenia,,2,50,5,50,9.14,0.0,5580,433,6013

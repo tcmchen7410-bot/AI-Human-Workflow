@@ -1,0 +1,34 @@
+﻿id,model,outcome,cot,intervention_event,intervention_n,control_event,control_n,time,human_time,input_tokens,output_tokens,total_tokens
+#4-10,gpt,gastrointestinal reaction (nausea/vomiting),,5,14,6,14,4.55,0.0,1529,134,1663
+#4-10,deepseek,gastrointestinal reaction,,5,14,6,14,7.27,0.0,1384,353,1737
+#4-10,final_consensus,gastrointestinal reaction (nausea/vomiting),,5,14,6,14,11.82,0.0,2913,487,3400
+#4-11,gpt,gastrointestinal reaction,,,,,,3.69,0.0,1607,96,1703
+#4-11,deepseek,,,,,,,4.74,0.0,1406,198,1604
+#4-11,final_consensus,gastrointestinal reaction,,,,,,8.43,0.0,3013,294,3307
+#4-12,gpt,gastrointestinal reaction (grade >=1),,34,49,36,49,3.2,0.0,3743,130,3873
+#4-12,deepseek,gastrointestinal reaction,,34,49,36,49,4.95,0.0,3418,195,3613
+#4-12,final_consensus,gastrointestinal reaction (grade >=1),,34,49,36,49,8.15,0.0,7161,325,7486
+#4-13,gpt,gastrointestinal reaction >= grade 1,,6,30,9,30,3.38,0.0,2437,121,2558
+#4-13,deepseek,gastrointestinal reaction ≥ grade 1,,6,30,9,30,4.61,0.0,2194,182,2376
+#4-13,final_consensus,gastrointestinal reaction >= grade 1,,6,30,9,30,7.99,0.0,4631,303,4934
+#4-14,gpt,gastrointestinal reaction,,17,35,24,35,4.3,0.0,2910,105,3015
+#4-14,deepseek,gastrointestinal reaction,,17,35,24,35,6.69,0.0,2659,380,3039
+#4-14,final_consensus,gastrointestinal reaction,,17,35,24,35,10.99,0.0,5569,485,6054
+#4-4,gpt,gastrointestinal reaction,,,30,,18,12.36,0.0,1082,550,1632
+#4-4,deepseek,,,,,,,8.89,0.0,971,420,1391
+#4-4,final_human_override,,,,,,,21.25,25.69,2053,970,3023
+#4-5,gpt,gastrointestinal reaction,,8,50,13,50,4.26,0.0,4699,152,4851
+#4-5,deepseek,Nausea/vomiting (grade >=1),,8,50,13,50,12.21,0.0,4394,561,4955
+#4-5,final_consensus,gastrointestinal reaction,,8,50,13,50,16.47,0.0,9093,713,9806
+#4-6,gpt,gastrointestinal reaction >= grade 1,,6,12,10,12,7.87,0.0,3271,360,3631
+#4-6,deepseek,gastrointestinal reaction,,6,12,10,12,7.69,0.0,3010,333,3343
+#4-6,final_consensus,gastrointestinal reaction >= grade 1,,6,12,10,12,15.56,0.0,6281,693,6974
+#4-7,gpt,gastrointestinal reaction,,,35,,35,8.96,0.0,4362,377,4739
+#4-7,deepseek,,,,,,,8.29,0.0,3810,400,4210
+#4-7,final_human_override,,,,,,,17.25,15.74,8172,777,8949
+#4-8,gpt,gastrointestinal reaction,,14,35,13,30,4.63,0.0,3498,149,3647
+#4-8,deepseek,gastrointestinal reaction,,14,35,13,30,9.41,0.0,3231,436,3667
+#4-8,final_consensus,gastrointestinal reaction,,14,35,13,30,14.04,0.0,6729,585,7314
+#4-9,gpt,gastrointestinal reaction grade >=1,,14,35,26,35,3.5,0.0,2590,108,2698
+#4-9,deepseek,gastrointestinal reaction,,14,35,26,35,5.22,0.0,2309,208,2517
+#4-9,final_consensus,gastrointestinal reaction grade >=1,,14,35,26,35,8.719999999999999,0.0,4899,316,5215
